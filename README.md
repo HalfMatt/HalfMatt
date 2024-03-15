@@ -8,7 +8,8 @@
 🚀 I'm looking to collaborate on anything that will help me learn and grow<br>
 🆘 I'm looking for help with anything that I'm not familiar with<br></p>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65f3a95bb98001268767b2a3?variant=dark&roadmaps=cyber-security%2Ccomputer-science%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65f3a95bb98001268767b2a3?variant=dark&roadmaps=cyber-security%2Ccomputer-science%2Cdatastructures-and-algorithms)](https://roadmap.sh)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalfMatt&theme=jolly&show_icons=true&hide=stars,contribs)
 
 ## ⚙️🔨 Tools/Languages that I have learned or am currently learning 🔨⚙️
 <p> 
