@@ -4,7 +4,7 @@
 
 <p style="text-align:justify; margin-left:10%">
 🌱 I’m currently learning Computer Science with the goal of being a cybersecurity expert!<br>
-🎓 Currently in my 3rd year of college<br>
+🎓 Currently in my last year of college<br>
 🚀 I'm looking to collaborate on anything that will help me learn and grow<br>
 🆘 I'm looking for help with anything that I'm not familiar with<br></p>
 
